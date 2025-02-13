@@ -8,11 +8,11 @@
   <b>Lucinda's Art Gallery</b> - A lightweight reactive online art Gallery. 
   <br />
   <br />
-  <a href="https://github.com/jtmb/hookie/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/jtmb/lucinda-art-gallery/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/jtmb/hookie/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/jtmb/lucinda-art-gallery/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   .
-  <a href="https://hub.docker.com/repository/docker/jtmb92/hookie/general">Docker Hub</a>
+  <a href="https://hub.docker.com/repository/docker/jtmb92/lucinda-art-gallery/general">Docker Hub</a>
 </div>
 <br>
 <details open="open">
@@ -40,7 +40,7 @@ Lucinda Branco is a seasoned artist of 31 years featured in art galleries in her
 
 
 ### <h2>Getting Started</h2>
-### [Docker Image](https://hub.docker.com/r/jtmb92/hookie)
+### [Docker Image](https://hub.docker.com/r/jtmb92/lucinda-art-gallery)
 ```docker
  docker pull jtmb92/lucinda-art-gallery
 ```
