@@ -36,7 +36,7 @@ Lucinda Branco is a seasoned artist of 31 years featured in art galleries in her
 
 ---
 
-![alt text](image.png)
+![alt text](src/image.png)
 
 
 ### <h2>Getting Started</h2>
